@@ -404,4 +404,4 @@ Dataset bajo licencia ODbL-1.0 (Open Database License).
 
 ## Autor
 
-Desarrollado como proyecto educativo de Arquitectura Kappa aplicada a sistemas de recomendación en tiempo real.
+Desarrollado por Joseph Escalante como trabajo en clases aplicando la Arquitectura Kappa a sistemas de recomendación en tiempo real.
